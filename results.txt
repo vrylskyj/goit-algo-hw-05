@@ -1,0 +1,12 @@
+boyer_moore - Text 1 - Existing pattern: 0.0015887980116531253
+boyer_moore - Text 1 - Fake pattern: 0.0030912579968571663
+boyer_moore - Text 2 - Existing pattern: 0.002563526970334351
+boyer_moore - Text 2 - Fake pattern: 0.060302834026515484
+knuth_morris_pratt - Text 1 - Existing pattern: 0.0034418320283293724
+knuth_morris_pratt - Text 1 - Fake pattern: 0.005955094005912542
+knuth_morris_pratt - Text 2 - Existing pattern: 0.005350788007490337
+knuth_morris_pratt - Text 2 - Fake pattern: 0.004330842988565564
+rabin_karp - Text 1 - Existing pattern: 0.013177884044125676
+rabin_karp - Text 1 - Fake pattern: 0.10402369603980333
+rabin_karp - Text 2 - Existing pattern: 0.04536664404440671
+rabin_karp - Text 2 - Fake pattern: 0.06608429795596749
